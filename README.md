@@ -2,7 +2,7 @@
 This project uses PostgreSQL to analyze e-commerce logistics and supply chain data from the dataset of a Brazilian store: Olist (2016-2018). 
 The analysis explores delivery performance, freight costs across product categories, and the relationship between delivery delays and customer review scores.
 
-The goal is to identify operational patterns and potential areas for improving logistics efficiency and supporting more sustainable supply chain practices.
+The goal was to identify operational patterns, potential areas for improving logistics efficiency and supporting more sustainable supply chain practices.
 
 # Tools & Technologies Used
 
